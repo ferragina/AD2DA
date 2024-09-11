@@ -3,7 +3,7 @@ This is the material for the course "Algorithms and Data structures for Data-int
 
 ## General Infos
 
-**Teachers**: Paolo Ferragina and Giovanni Manzini
+**Teachers**: <a href="https://www.santannapisa.it/en/paolo-ferragina">Paolo Ferragina</a> and <a href="">Giovanni Manzini</a>
 
 **CFU:** 9 (first semester). 
 
