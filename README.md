@@ -69,7 +69,41 @@ The content of the course will be covered in part by the book published by *Camb
 
 ## Lectures (TO BE CHANGED SIGNIFICANTLY) 
 
-|  | Key issues about I/Os, streaming, and hierarchical memory in managing massive datasets. |  |
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Cognome</th>
+      <th scope="col">Username</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mario</td>
+      <td>Verdi</td>
+      <td>mario.verdi</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Francesco</td>
+      <td>Bianchi</td>
+      <td>francesco.bianchi</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Alessandro</td>
+      <td>Rossi</td>
+      <td>alessandro.rossi</td>
+    </tr>
+  </tbody>
+</table>
+
+   
+| aa | Key issues about I/Os, streaming, and hierarchical memory in managing massive datasets. | bb |
+
 |  | Algorithmic and data structure issues concerning atomic versus variable-length items. |  | 
 |  | Two fundamental tools: sorting and permuting. |  | 
 |  | Key-value stores: From basic to advanced hash tables and tries. |  | 
