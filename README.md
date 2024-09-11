@@ -73,42 +73,52 @@ The content of the course will be covered in part by the book published by *Camb
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">Nome</th>
-      <th scope="col">Cognome</th>
-      <th scope="col">Username</th>
+      <th scope="col">Date</th>
+      <th scope="col">Topic</th>
+      <th scope="col">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mario</td>
-      <td>Verdi</td>
-      <td>mario.verdi</td>
+      <th scope="row">16/09/2024</th>
+      <td>Key issues about I/Os, streaming, and hierarchical memory in managing massive datasets.</td>
+      <td>...</td>
+    </tr>
+   <tr>
+      <th scope="row">00/00/24</th>
+      <td>Algorithmic and data structure issues concerning atomic versus variable-length items.</td>
+      <td>...</td>
+    </tr>
+     <tr>
+      <th scope="row">00/00/24</th>
+      <td>Two fundamental tools: sorting and permuting.</td>
+      <td>...</td>
+    </tr>
+     <tr>
+      <th scope="row">00/00/24</th>
+      <td>Key-value stores: From basic to advanced hash tables and tries.</td>
+      <td>...</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Francesco</td>
-      <td>Bianchi</td>
-      <td>francesco.bianchi</td>
+      <th scope="row">00/00/24</th>
+      <td>Textual search engines: compressing and accessing posting lists (integer sequences) and text collections. Deduplicating similar/equal texts, clustering text collections. </td>
+      <td>...</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>Alessandro</td>
-      <td>Rossi</td>
-      <td>alessandro.rossi</td>
+      <th scope="row">00/00/24</th>
+      <td>Bio-Informatics engines: compressing and indexing arbitrary text for substring search, exact or approximate. </td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th scope="row">00/00/24</th>
+      <td>Vector DBs: nearest neighbor search, hamming, or Euclidean distance. </td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th scope="row">00/00/24</th>
+      <td>Advanced storage: Streaming and random access to compressed raw files, time series, and (labeled) graphs. </td>
+      <td>...</td>
     </tr>
   </tbody>
 </table>
-
-   
-| aa | Key issues about I/Os, streaming, and hierarchical memory in managing massive datasets. | bb |
-
-|  | Algorithmic and data structure issues concerning atomic versus variable-length items. |  | 
-|  | Two fundamental tools: sorting and permuting. |  | 
-|  | Key-value stores: From basic to advanced hash tables and tries. |  | 
-|  | Textual search engines: compressing and accessing posting lists (integer sequences) and text collections. Deduplicating similar/equal texts, clustering text collections. |  | 
-|  | Bio-Informatics engines: compressing and indexing arbitrary text for substring search, exact or approximate. |  | 
-|  | Vector DBs: nearest neighbor search, hamming, or Euclidean distance. |  | 
-|  | Advanced storage: Streaming and random access to compressed raw files, time series, and (labeled) graphs. |  | 
 
