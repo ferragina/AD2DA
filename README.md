@@ -64,7 +64,7 @@ Lectures will include in-depth discussions on the practical efficiency of the pr
 
 I strongly suggest refreshing your knowledge about basic Algorithms and Data Structures by looking at the well-known book <a href="https://mitpress.mit.edu/books/introduction-algorithms-third-edition">Introduction to Algorithms, Cormen-Leiserson-Rivest-Stein (third edition)</a>. Specifically, I suggest you look at the chapters 2, 3, 4, 6, 7, 8, 10, 11 (no perfect hash), 12 (no randomly built), 15 (no optimal BST), 18, 22 (no strongly connected components). Also, you could look at the <a href="http://videolectures.net/mit6046jf05_introduction_algorithms/">Video Lectures, by Erik Demaine and Charles Leiserson</a>, specifically Lectures 1-7, 9-10, and 15-17.
 
-The content of the course will be covered in part by the book published by *Cambridge University Press* as <a href="https://www.cambridge.org/core/books/pearls-of-algorithm-engineering/95061352D7263CCCBD4F243018236EB2">Pearls of Algorithm Engineering</a>, and in part by notes and GitHub refs that will provide the materials of hands-on sessions.
+The content of the course will be covered mostly by the book published by *Cambridge University Press* as <a href="https://www.cambridge.org/core/books/pearls-of-algorithm-engineering/95061352D7263CCCBD4F243018236EB2">Pearls of Algorithm Engineering</a>, and in some small parts by notes and GitHub refs that will provide the materials of hands-on sessions.
 
 
 ## Lectures (TO BE CHANGED SIGNIFICANTLY) 
